@@ -1,15 +1,18 @@
 ---
-title: Focus
-subtitle: >- We will focus to take care
-  .
-date: '2018-01-11'
+title: The Focus
+date: '2019-04-09'
 thumb_img_path: images/10.jpg
 content_img_path: images/10.jpg
 excerpt: >-
-  The building allows you to put sliding doors and panels to create seperate areas.
+  We assure you a better quality service .
 layout: post
 ---
+  
+## Parking
 
-Focus. **The Shrines ** Near by many workship places.
 
-> 
+## Backup Generators
+
+
+## Wash rooms
+ 
