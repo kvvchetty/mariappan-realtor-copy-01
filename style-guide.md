@@ -2,7 +2,7 @@
 title: For Lease
 subtitle: >-
     Available immediate. 6000 sqr feet in a three story building. Elevator installed. Office space in lower levels. Generator backup available. Security personal on permises. In ground water. Parking space reserved.
-img_path: images/6.jpg , images/1.jpg, images/9.jpg
+img_path: images/6.jpg
 
 menus:
   main:
