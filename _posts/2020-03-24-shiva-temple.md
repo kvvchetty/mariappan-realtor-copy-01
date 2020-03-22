@@ -2,7 +2,7 @@
 title: A landmark
 subtitle: >-
   Very old cultural landmark.
-date: '2019-03-24'
+date: '2020-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: images/4.jpg
 excerpt: >-
