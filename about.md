@@ -1,6 +1,6 @@
 ---
-title: About Promoter
-subtitle: We are living in this location. Over the years many changes towards progress.
+title: Promoter
+subtitle: We are living in this location. Over the years, Many changes towards progress.
 img_path: images/about.jpg
 menus:
   main:
