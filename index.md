@@ -6,7 +6,8 @@ sections:
     section_id: intro
     component: intro.html
     content: >-
-      The Mariappan Realtor agency provides services in leasing and rention space for office use, small business needs, residential.
+      The Mariappan Realtor agency, Velacherri Chennai. 
+      Provides services in leasing and renting space for offices, small business needs, and residential. 
     actions:
       - label: Learn More
         url: /about
